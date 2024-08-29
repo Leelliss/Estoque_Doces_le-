@@ -1,0 +1,14 @@
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\bin\Debug\net8.0\Doce le.exe
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\bin\Debug\net8.0\Doce le.deps.json
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\bin\Debug\net8.0\Doce le.runtimeconfig.json
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\bin\Debug\net8.0\Doce le.dll
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\bin\Debug\net8.0\Doce le.pdb
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\Doce le.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\Doce le.AssemblyInfoInputs.cache
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\Doce le.AssemblyInfo.cs
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\Doce le.csproj.CoreCompileInputs.cache
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\Doce le.dll
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\refint\Doce le.dll
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\Doce le.pdb
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\Doce le.genruntimeconfig.cache
+c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\ref\Doce le.dll
