@@ -9,6 +9,7 @@ namespace Doce_le.código
             ControleEstoque estoque = new ControleEstoque();
             bool continuar = true;
 
+            
             while (continuar)
             {
                 Console.WriteLine("Escolha uma opção:");
@@ -20,7 +21,7 @@ namespace Doce_le.código
                 Console.WriteLine("0. Sair");
 
                 int opcao = Convert.ToInt32(Console.ReadLine());
-                 estoque.ListarProdutos();
+                 
 
                 switch (opcao)
                 {
@@ -49,6 +50,9 @@ namespace Doce_le.código
                         string modelo = Console.ReadLine() ?? string.Empty;
 
                         estoque.NovoProduto(nome, preco, quantidade, sabor, modelo);
+                        
+                        Console.WriteLine("Lista de Produtos Atualizada:");
+                        estoque.ListarProdutos();
                         break;
 
                         
@@ -64,6 +68,9 @@ namespace Doce_le.código
                             break;
                         }
                         estoque.RemoverProduto(id);
+                        
+                        Console.WriteLine("Lista de Produtos Atualizada:");
+                        estoque.ListarProdutos();
                         break;
                     
                      case 4: // Entrada no estoque
@@ -78,10 +85,13 @@ namespace Doce_le.código
                         if (!Int32.TryParse(Console.ReadLine(), out int quantidadeEntrada))
                         {
                             Console.WriteLine("Formato inválido para quantidade.");
+
                             break;
                         }
 
                         estoque.EntradaEstoque(idEntrada, quantidadeEntrada);
+                        Console.WriteLine("Lista de Produtos Atualizada:");
+                        estoque.ListarProdutos();
                         break;
 
                     case 5:
@@ -101,6 +111,8 @@ namespace Doce_le.código
                         }
 
                         estoque.SaidaEstoque(idSaida, quantidadeSaida);
+                        Console.WriteLine("Lista de Produtos Atualizada:");
+                        estoque.ListarProdutos();
                         break;
 
                     case 0: //termina
@@ -113,12 +125,7 @@ namespace Doce_le.código
                         break;
                 }
 
-                if (opcao != 0)
-                {
-                    Console.WriteLine("Lista de Produtos Atualizada:");
-                    estoque.ListarProdutos();
-                }
-
+             
                 Console.WriteLine();
             }
         }
