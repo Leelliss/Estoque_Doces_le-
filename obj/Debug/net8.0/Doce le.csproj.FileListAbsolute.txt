@@ -12,3 +12,4 @@ c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\refint\
 c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\Doce le.pdb
 c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\Doce le.genruntimeconfig.cache
 c:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\ref\Doce le.dll
+C:\Users\lele\Documents\ADS - Faculdade\PTI alg\Doce le\obj\Debug\net8.0\Doce le.sourcelink.json

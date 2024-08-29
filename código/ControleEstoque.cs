@@ -5,7 +5,7 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text.Json;
 
-namespace Doce_le
+namespace Doce_le.código
 {
     public class ControleEstoque
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Doce_le
+namespace Doce_le.código
 {
     public class Program
     {
